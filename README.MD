@@ -3,13 +3,14 @@
 Aprendendo comandos básicos do Git
 
 Primeiros comando aprendidos:
-   git init
-   git status
-   git add --all
-   git commit -m "Mensagem"
-   git log
-   git log -p
-   git checkout -- README.md
+	git init
+	git status
+	git add --all
+	git commit -m "Mensagem"
+	git log
+	git log -p
+	git checkout -- README.md
+
 
 
 Se quisermos desfazer as alterações em um arquivo antes de adicionar o mesmo na área de Stage para o próximo commit:
