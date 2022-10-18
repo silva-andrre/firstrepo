@@ -11,6 +11,11 @@ Primeiros comando aprendidos:
 	git log -p
 	git checkout -- README.md
 
+Novos comandos:
+	git branch
+	git checkout nomeBranch
+	git checkout -b nomeBranch
+
 
 
 Se quisermos desfazer as alterações em um arquivo antes de adicionar o mesmo na área de Stage para o próximo commit:
